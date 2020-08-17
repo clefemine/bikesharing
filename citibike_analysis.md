@@ -1,6 +1,6 @@
 # Bike Sharing in Des Moines, IA
 
-[link to dashboard](https://public.tableau.com/profile/cristina.lefemine#!/vizhome/DesMoinesBikeSharing/BikeSharingDM?publish=yes)
+[link to dashboard](https://public.tableau.com/profile/cristina.lefemine#!/vizhome/BikeSharing_15976344154230/BikeSharingDM?publish=yes)
 
 ## Project Summary
 

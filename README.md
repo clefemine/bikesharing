@@ -4,7 +4,7 @@
 
 ## Project Summary
 
-To understand why Des Moines, Iowa would make an optimal location to start a bike sharing program a comparative data analysis can be made using a data collected on the successful program in New York City in the month of August. Tableau is used to create data visualizations to answer sales and customer based questions. The biggest concern is how population factors into 
+To understand why Des Moines, Iowa would make an optimal location to start a bike sharing program a comparative data analysis can be made using a data collected on the successful program in New York City in the month of August. Tableau is used to create data visualizations to answer sales and customer based questions. 
 
 ## Project Analysis
 
